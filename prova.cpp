@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-main(){
+int main(){
 int i;
 std::cout << "scrivi un numero";
 std::cin >> i ;
