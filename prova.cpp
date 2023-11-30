@@ -4,8 +4,8 @@
 main(){
 int i;
 std::cout << "scrivi un numero";
-std::cin >> i >> '\n';
+std::cin >> i ;
  int a= i+1;
- sdt::cout << a << '\n';
+ std::cout << a << '\n';
  
 }
