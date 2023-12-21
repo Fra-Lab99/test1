@@ -1,6 +1,7 @@
-#define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
+// #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
 // #include "doctest.h"
-
+using namespace std;
+#include <cmath>;
 struct Statistics {
   double mean{};
   double sigma{};
